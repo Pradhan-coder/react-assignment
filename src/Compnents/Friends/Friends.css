@@ -1,0 +1,9 @@
+.friends-container{
+    display: flex;
+}
+.friend-container{
+    width: 80%;
+    margin-left: 2px;
+    margin-right: 2px;
+    border-right: 1px solid lightgray;
+}
